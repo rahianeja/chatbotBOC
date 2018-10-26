@@ -1,0 +1,37 @@
+.rightSide{
+    float: right;
+    margin:10px;
+}
+.divHolder{
+    width:100%;
+}
+.editorsHolder{
+    text-align:center;
+}
+.firstEditorBlock{
+    display:inline;
+    float: left;
+}
+.secondEditorBlock{
+    display:inline;
+    float: left;
+}
+.editor1{
+    margin-top:14px;
+    margin-right: 10px;
+}
+
+.editor2{
+    margin-right: 10px;
+    margin-top:14px;
+}
+.gridBox{
+
+}
+.gridContainer{
+    width: 1024px;
+    margin-left: 50px;
+}
+.inlineBtn{
+    float:right;
+}
